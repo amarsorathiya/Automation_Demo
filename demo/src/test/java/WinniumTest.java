@@ -15,7 +15,7 @@ public class WinniumTest {
 	 static WiniumDriver driver = null;
 	    static WiniumDriverService service = null;
 	    static DesktopOptions options = null;
-	
+	//same commit test
 	@BeforeClass
 	private void SetUp() {
 	    options = new DesktopOptions(); //Instantiate Winium Desktop Options
